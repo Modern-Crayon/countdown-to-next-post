@@ -1,5 +1,5 @@
 === Countdown to Next Post ===
-Contributors: scottmulligan
+Contributors: Scott Mulligan
 Tags: countdown, next post, upcoming post, time until next post, upcoming post countdown, next post, date of upcoming post
 Requires at least: 2.6
 Tested up to: 2.8.1
