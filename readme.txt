@@ -47,6 +47,10 @@ If you want to insert the "Countdown to Next Post" into a page or post, you can 
 
 == Frequently Asked Questions ==
 
+= I deleted a post that was scheduled, but it still has the countdown for that deleted post. =
+
+Yes, I am working on updating the code to fix this but there is an easy work around for now! If you have decided to delete a scheduled post then the WordPress database will not be updated right away. What you need to do is go and re-save any post and the WordPress database will be immediately updated.
+
 = I am not getting a countdown. All I see is "No scheduled Posts". =
 
 For this plugin to create a countdown timer there needs to be atleast one post scheduled to be posted at a future time. If you do not have any posts scheduled then you will not see a countdown because there is nothing to countdown to. I would suggest scheduling a test post so you can play around with the plugin and get the formatting how you want it.  
